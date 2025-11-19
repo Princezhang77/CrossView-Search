@@ -5,8 +5,8 @@
 ## 1.展示(点击进入)：
 
 <div align="center">
-     <a href="https://www.bilibili.com/video/BV1BcUmYtESj/?spm_id_from=333.1387.homepage.video_card.click" target="_blank">
-          <img width="70%" src="https://github.com/user-attachments/assets/809616ce-0e28-44e6-b9ac-1cadae297234" alt="bilibili" />
+     <a href="framework.png" target="_blank">
+          <img width="70%" src="framework.png"/>
      </a>
 </div>
 
